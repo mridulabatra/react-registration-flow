@@ -99,7 +99,7 @@ const ImageUploadModal = () => {
               border="0"
             />
             <div className="upload-container-content">
-              <input type="file" onChange={handleFileChange} />
+              <input type="file" accept="image/*" onChange={handleFileChange} />
               {selectedFile && (
                 <div className="file-preview">
                   <img
