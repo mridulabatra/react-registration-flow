@@ -1,14 +1,14 @@
 # react-registration-flow
 Mobile-First Responsive App with Registration and Image Upload
 
-## Installation
+## Installation & Running the App:
 - Clone the repository or download the project files.
 - Navigate to the project directory: cd react-registration-flow.
 - Install dependencies: npm install.
 - start the development server: npm start
 - Open your browser and go to http://localhost:3000 to view the application.
 
-## Technologies & Running the App:
+## Technologies:
 
 React,
 React Router DOM,
