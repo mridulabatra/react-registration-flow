@@ -9,14 +9,14 @@ Mobile-First Responsive App with Registration and Image Upload
   ```
 
 - Install dependencies:
-```
- npm install.
-```
+  ```
+  npm install
+  ```
 
 - start the development server: 
-```
-npm start
-```
+   ```
+   npm start
+   ```
 
 - Open your browser and go to http://localhost:3000 to view the application.
 
